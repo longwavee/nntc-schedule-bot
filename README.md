@@ -1,1 +1,1 @@
-# nntc-schedule-bot
+# ScheduleNNTCBot
